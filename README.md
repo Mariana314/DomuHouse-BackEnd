@@ -10,6 +10,15 @@ This project was developed collaboratively by a team of 5 developers.
 
 ---
 
+## My Contributions  
+
+- Designed the user interface and overall visual structure of the web application.  
+- Contributed to frontend development using React, implementing key components and views.  
+- Participated in backend development by creating routes and handling server-side logic.  
+- Integrated frontend and backend, ensuring proper communication between the client and the API.  
+
+---
+
 ## Live Demo
 
 https://domu-house.vercel.app/
@@ -57,6 +66,15 @@ Este es el backend de DomuHouse, una plataforma inmobiliaria diseñada para gest
 El backend proporciona una API REST que maneja la lógica de negocio, autenticación y operaciones con la base de datos.
 
 Este proyecto fue desarrollado de manera colaborativa por un equipo de 5 desarrolladores.
+
+---
+
+## Mis Contribuciones  
+
+- Diseñé la interfaz de usuario y la estructura visual general de la aplicación web.  
+- Participé en el desarrollo del frontend utilizando React, implementando componentes y vistas principales.  
+- Contribuí al desarrollo del backend mediante la creación de rutas y lógica del servidor.  
+- Integré el frontend con el backend, asegurando la correcta comunicación entre el cliente y la API.  
 
 ---
 
